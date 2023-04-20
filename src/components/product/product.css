@@ -1,0 +1,13 @@
+.image {
+    height: 120px;
+    border-radius: 4px;
+    width: 100%;
+    object-fit: fill;
+    margin-top: 15px;
+}
+
+.product-details {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
